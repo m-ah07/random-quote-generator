@@ -12,20 +12,20 @@ A simple Python project to display random inspirational quotes. This project is 
 ## Usage
 1. Clone the repository:
 
-    ```
+    ```bash
     git clone https://github.com/marwan-ahmed-23/random-quote-generator.git
     cd random-quote-generator
     ```
 
 2. Run the script:
 
-    ```
+    ```bash
     python random_quote.py
     ```
     
 3. Example output:
 
-    ```
+    ```bash
     "The best way to predict the future is to invent it." - Alan Kay
     ```
 
