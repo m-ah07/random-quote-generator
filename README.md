@@ -4,12 +4,12 @@ A simple Python project to display random inspirational quotes. This project is 
 
 ---
 
-## Features
+## ✨ Features
 - Loads quotes from a JSON file.
 - Displays a random quote in the console.
 - Easily extendable with more quotes.
 
-## Usage
+## 📖 Usage
 1. Clone the repository:
 
     ```bash
@@ -29,7 +29,9 @@ A simple Python project to display random inspirational quotes. This project is 
     "The best way to predict the future is to invent it." - Alan Kay
     ```
 
-## Contributing
+## 🤝 Contributing
 
 Feel free to add more quotes to `quotes.json` or improve the code!
 
+## 🌟 Show Your Support
+If you found this project helpful, please consider giving it a ⭐ on GitHub. Your support means the world to us!
