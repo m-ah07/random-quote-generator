@@ -13,7 +13,7 @@ A simple Python project to display random inspirational quotes. This project is 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/marwan-ahmed-23/random-quote-generator.git
+    git clone https://github.com/m-ah07/random-quote-generator.git
     cd random-quote-generator
     ```
 
